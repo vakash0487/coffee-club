@@ -1,0 +1,165 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Lato&family=Lexend+Deca:wght@300;400;500&family=Lobster&family=Poppins:wght@400;500;600&family=Silkscreen&display=swap');
+body{
+    padding: 1px;
+    background-color: #F9F6F1;
+}
+
+#nav{
+    background-color: #C7A17A;
+    height: 100px;
+    width: 1679px;
+    position: relative
+}
+
+.ad{
+    background-color: ;
+    position: absolute;
+    font-size: larger;
+    font-family: 'Poppins',sans-serif;
+    margin-left: 1334px;
+    margin-top: 32px;
+    font-weight: 500;
+}
+
+#logo{
+    left: 36px;
+    position: absolute;
+    top: 10px;
+}
+
+.ad1{
+    left: 112px;
+}
+
+.ad1:hover{
+    color: aliceblue;
+}
+
+.ad2{
+    left: 200px;
+}
+
+.ad2:hover{
+    color: aliceblue;
+}
+
+.ad13{
+    left: 300px;
+}
+
+.ad3:hover{
+    color: aliceblue;
+}
+
+#head{
+    background-color: aqua;
+    height: 596px;
+    width: 1679px;
+    background-image: url(./pics/mon-jester-X77F0MRoM38-unsplash.jpg);
+    background-size: cover;
+    background-position-x: 3px;
+    background-position-y: -337px;
+    color: white;
+    font-family:'Poppins',sans-serif ;
+    margin-top: -23px;
+    }
+
+    #pure{
+        padding-left: 153px;
+        padding-top: 90px;
+    }
+
+
+#ptag{
+    width: 770px;
+    height: 244px;
+    margin-top: 42px;
+    margin-left: 150px;
+}
+
+#knowmore{
+    color: aliceblue;
+    background-color: #C7A17A;
+    height: 38px;
+    width: 117px;
+    border-radius: 46px;
+    margin-left: 161px;
+    margin-top: 36px;
+    font-family: 'Poppins',sans-serif;
+}
+
+#knowmore:hover{
+    background-color: aliceblue;
+    color: black;
+}
+
+.ptagg{
+    font-family:'Poppins',sans-serif ;
+    font-size: larger;
+    font-weight: 500;
+    text-align: center;
+    margin-top: 72px;
+}
+
+.box{
+    background-color: antiquewhite;
+    height: 222px;
+    width: 313px;
+    float: left;
+    margin-left: 184px;
+    margin-top: 62px;
+    margin-bottom: 100px;
+    border-radius: 22px;
+    
+   
+}
+
+.box-1{
+    background-image: url(./pics/pexels-hasan-albari-1085966.jpg);
+    background-position-y: -4px;
+    background-position-x: -7px;
+    background-size: cover;
+    
+}
+
+.box-2{
+    background-image: url(./pics/pexels-sonya-taraban-4796889.jpg);
+    background-position-y: -10px;
+    background-position-x: -5px;
+    background-size: cover;
+   
+}
+
+.box-3{
+    background-image: url(./pics/pexels-viktoria-alipatova-2074116.jpg);
+    background-position-y: 3px;
+    background-position-x: -2px;
+    background-size: cover;
+   
+    }
+
+    .details{
+        color: rgb(255, 255, 255);
+        font-family: 'Poppins',sans-serif ;
+        font-weight: 500;
+    }
+
+    .details1{
+        margin-top: 100px;
+        margin-left: 20px;
+    }
+
+    .details2{
+        margin-top: 100px;
+        margin-left: 20px;
+    }
+
+    .details3{
+        margin-top: 100px;
+        margin-left: 20px;
+    }
+
+
+
+
+
